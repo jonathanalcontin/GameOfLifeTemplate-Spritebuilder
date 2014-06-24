@@ -182,7 +182,7 @@ for (int i = 0; i < [_gridArray count]; i++)
                         Creature *neighbor = _gridArray[x][y];
                         if (neighbor.isAlive)
                         {
-                            currentCreature.livingNeighbors += 1;
+                            currentCreature.livingNeighbors += 3;
                             
                             { _totalAlive = numAlive;
                         }
