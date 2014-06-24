@@ -147,4 +147,6 @@ for (int i = 0; i < [_gridArray count]; i++)
     }
     return isIndexValid;
 }
+    
+}
 @end
