@@ -137,7 +137,7 @@ for (int i = 0; i < [_gridArray count]; i++)
         }
     }
 }
-}
+
 - (BOOL)isIndexValidForX:(int)x andY:(int)y
 {
     BOOL isIndexValid = YES;
